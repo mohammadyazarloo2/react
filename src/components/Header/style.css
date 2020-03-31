@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+
+.hedaerMenu li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+    color: #565673;
+    letter-spacing: 1.2px;
+}
+.hedaerMenu li:hover{
+    color: #5f9ea0;
+    cursor: pointer;
+}
